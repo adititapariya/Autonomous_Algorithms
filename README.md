@@ -1,7 +1,7 @@
 # Autonomous Algorithms
 This repository contains a collection of algorithms designed to enable SWEEP, an autonomous beach cleaning robot to efficiently cover areas, navigate from goal to goal, and avoid obstacles during its cleaning operations.
 
-# Contents
+#<h2> Contents</h2>
 Area Coverage Algorithm<br>
 Goal-to-Goal Algorithm<br>
 Obstacle Avoidance Algorithm<br>
