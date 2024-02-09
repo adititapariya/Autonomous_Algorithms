@@ -2,9 +2,9 @@
 This repository contains a collection of algorithms designed to enable SWEEP, an autonomous beach cleaning robot to efficiently cover areas, navigate from goal to goal, and avoid obstacles during its cleaning operations.
 
 # Contents
-Area Coverage Algorithm
-Goal-to-Goal Algorithm
-Obstacle Avoidance Algorithm
+Area Coverage Algorithm<br>
+Goal-to-Goal Algorithm<br>
+Obstacle Avoidance Algorithm<br>
 
 # Area Coverage Algorithm
 The Area Coverage Algorithm efficiently covers the maximum area using GPS coordinates. It maps the designated area into a 2D plane utilizing advanced mathematical logic and formulas. This algorithm ensures that SWEEP optimally cleans large areas of the beach, maximizing its cleaning efficiency.
